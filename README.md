@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @luwubyte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @opsworld30
+- 👀 I'm interested in cloud-native technologies, DevOps practices, and building scalable systems
+- 🌱 I'm currently learning advanced Rust programming and exploring WebAssembly
+- 💞️ I'm looking to collaborate on open-source projects related to distributed systems or infrastructure automation
 
-<!---
-luwubyte/luwubyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 Tech Stack:
+- Languages: Go, Python, PHP, Rust
+- DevOps: Docker, Kubernetes, CI/CD pipelines
+- Cloud Platforms: AWS, GCP, Azure
+- Databases: Mysql, MongoDB, Redis
+- Tools: Git, Terraform, Ansible
+
+### 🚀 Current Focus:
+- Developing microservices architecture using Go and Rust
+- Implementing serverless solutions with AWS Lambda and Azure Functions
+- Optimizing container orchestration in Kubernetes environments
+- Exploring machine learning integrations in DevOps workflows
